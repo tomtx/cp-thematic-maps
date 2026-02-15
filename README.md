@@ -3,7 +3,7 @@ A dataset for multimodal tasks with annotated scientific figures of maps in clim
 * **figure file name**: [article_doi]_[figure_reference]-[figure_content].[file_extention]
 * **figure file content**: each figure has 6 files as per the [figure_content] field in the file name
   1) _annotation_ is the human annotation of the figure type class (thematic or other map)
-  2) _attribute_ is the generated label for generated visual attributes in the figure (metadata.json file maps attribute IDs to names)
+  2) _attribute_ is the generated label for generated visual attributes in the figure (metadata.json shows attribute names for attribute IDs)
   3) _caption_ is the caption of the figure image from its article
   4) _description_ is the generated description of the figure image
   5) _discourse_ is the scientific discourse in the article about the figure
