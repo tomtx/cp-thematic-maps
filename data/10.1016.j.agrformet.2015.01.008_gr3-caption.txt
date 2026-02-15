@@ -1,0 +1,1 @@
+Fig. 3. The first five EOFs and corresponding PCs (rows 1–5) in a decomposition of the detrended 1901–2011 seasonal climate record for SESA. Since the plots in each row represent the same EOF pattern, colors have been kept consistent across the precipitation and temperature variables.

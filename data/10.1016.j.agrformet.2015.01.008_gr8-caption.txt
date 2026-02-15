@@ -1,0 +1,1 @@
+Fig. 8. Ratio of observed to simulated grid-level variance, shown here for precipitation, (a) prior to variance correction, (b) after correction.
