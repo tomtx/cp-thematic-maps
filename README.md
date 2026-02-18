@@ -10,4 +10,5 @@ A dataset for multimodal tasks with annotated scientific figures of maps in clim
   6) _image_ is the image of the figure from its article
 
 FYI, the **full dataset will be disclosed post the paper review** process. It is currently privately hosted at Hugging Face Datasets. Meanwhile, please see the screenshot below to understand how users will see and access the full dataset post the paper review.
+
 <img width="1670" height="1134" alt="Screenshot 2026-02-15 at 3 50 52 PM" src="https://github.com/user-attachments/assets/89d645fe-158a-4b88-83e7-227b8224b156" />
