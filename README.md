@@ -13,4 +13,4 @@ The 'data' folder in this repository contains some samples of figures with the b
 
 FYI, the **full dataset will be disclosed post the paper review** process. It is currently privately hosted at Hugging Face Datasets. Meanwhile, please see the screenshot below to understand how users will see and access the full dataset post the paper review.
 
-<img width="1670" height="1134" alt="Screenshot 2026-02-15 at 3 50 52 PM" src="https://github.com/user-attachments/assets/89d645fe-158a-4b88-83e7-227b8224b156" />
+<img width="2241" height="1163" alt="sample_view" src="https://github.com/user-attachments/assets/37d701cc-513a-4ef4-83e5-07b404e10bc5" />
